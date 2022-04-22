@@ -1,4 +1,4 @@
-# HTTP Status codes and the Information responses
+# SKAE-HUB BOOTCAMP - HTTP Status codes and the Information responses
 
 ### 100 Continue
 This interim response indicates that the client should continue the request or ignore the response if the request is already finished.
